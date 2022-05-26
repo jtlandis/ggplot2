@@ -300,6 +300,7 @@ scale_apply <- function(data, vars, method, scale_id, scales) {
 
   lapply(vars, function(var) {
     pieces <- lapply(seq_along(scales), function(i) {
+      if (length(scale_index[[i]])==0) return(NULL)
       scales[[i]][[method]](data[[var]][scale_index[[i]]])
     })
     o <- order(unlist(scale_index))[seq_len(sum(lengths(pieces)))]
