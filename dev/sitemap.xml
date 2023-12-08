@@ -10,9 +10,6 @@
     <loc>https://ggplot2.tidyverse.org/dev/GOVERNANCE.html</loc>
   </url>
   <url>
-    <loc>https://ggplot2.tidyverse.org/dev/ISSUE_TEMPLATE.html</loc>
-  </url>
-  <url>
     <loc>https://ggplot2.tidyverse.org/dev/LICENSE-text.html</loc>
   </url>
   <url>
@@ -44,6 +41,9 @@
   </url>
   <url>
     <loc>https://ggplot2.tidyverse.org/dev/articles/ggplot2-specs.html</loc>
+  </url>
+  <url>
+    <loc>https://ggplot2.tidyverse.org/dev/articles/ggplot2.html</loc>
   </url>
   <url>
     <loc>https://ggplot2.tidyverse.org/dev/articles/index.html</loc>
@@ -136,6 +136,9 @@
     <loc>https://ggplot2.tidyverse.org/dev/reference/calc_element.html</loc>
   </url>
   <url>
+    <loc>https://ggplot2.tidyverse.org/dev/reference/check_device.html</loc>
+  </url>
+  <url>
     <loc>https://ggplot2.tidyverse.org/dev/reference/combine_vars.html</loc>
   </url>
   <url>
@@ -164,6 +167,9 @@
   </url>
   <url>
     <loc>https://ggplot2.tidyverse.org/dev/reference/cut_interval.html</loc>
+  </url>
+  <url>
+    <loc>https://ggplot2.tidyverse.org/dev/reference/datetime_scale.html</loc>
   </url>
   <url>
     <loc>https://ggplot2.tidyverse.org/dev/reference/diamonds.html</loc>
@@ -203,6 +209,9 @@
   </url>
   <url>
     <loc>https://ggplot2.tidyverse.org/dev/reference/faithfuld.html</loc>
+  </url>
+  <url>
+    <loc>https://ggplot2.tidyverse.org/dev/reference/fill_alpha.html</loc>
   </url>
   <url>
     <loc>https://ggplot2.tidyverse.org/dev/reference/find_panel.html</loc>
@@ -358,10 +367,16 @@
     <loc>https://ggplot2.tidyverse.org/dev/reference/graphical-units.html</loc>
   </url>
   <url>
-    <loc>https://ggplot2.tidyverse.org/dev/reference/guide-exts.html</loc>
+    <loc>https://ggplot2.tidyverse.org/dev/reference/guide_axis.html</loc>
   </url>
   <url>
-    <loc>https://ggplot2.tidyverse.org/dev/reference/guide_axis.html</loc>
+    <loc>https://ggplot2.tidyverse.org/dev/reference/guide_axis_logticks.html</loc>
+  </url>
+  <url>
+    <loc>https://ggplot2.tidyverse.org/dev/reference/guide_axis_stack.html</loc>
+  </url>
+  <url>
+    <loc>https://ggplot2.tidyverse.org/dev/reference/guide_axis_theta.html</loc>
   </url>
   <url>
     <loc>https://ggplot2.tidyverse.org/dev/reference/guide_bins.html</loc>
@@ -371,6 +386,9 @@
   </url>
   <url>
     <loc>https://ggplot2.tidyverse.org/dev/reference/guide_coloursteps.html</loc>
+  </url>
+  <url>
+    <loc>https://ggplot2.tidyverse.org/dev/reference/guide_custom.html</loc>
   </url>
   <url>
     <loc>https://ggplot2.tidyverse.org/dev/reference/guide_legend.html</loc>
@@ -383,6 +401,9 @@
   </url>
   <url>
     <loc>https://ggplot2.tidyverse.org/dev/reference/hmisc.html</loc>
+  </url>
+  <url>
+    <loc>https://ggplot2.tidyverse.org/dev/reference/ignoring_data.html</loc>
   </url>
   <url>
     <loc>https://ggplot2.tidyverse.org/dev/reference/index.html</loc>
@@ -452,6 +473,15 @@
   </url>
   <url>
     <loc>https://ggplot2.tidyverse.org/dev/reference/msleep.html</loc>
+  </url>
+  <url>
+    <loc>https://ggplot2.tidyverse.org/dev/reference/new_guide.html</loc>
+  </url>
+  <url>
+    <loc>https://ggplot2.tidyverse.org/dev/reference/old_guide.html</loc>
+  </url>
+  <url>
+    <loc>https://ggplot2.tidyverse.org/dev/reference/pattern_alpha.html</loc>
   </url>
   <url>
     <loc>https://ggplot2.tidyverse.org/dev/reference/position_dodge.html</loc>
@@ -541,6 +571,9 @@
     <loc>https://ggplot2.tidyverse.org/dev/reference/scale_linetype.html</loc>
   </url>
   <url>
+    <loc>https://ggplot2.tidyverse.org/dev/reference/scale_linewidth.html</loc>
+  </url>
+  <url>
     <loc>https://ggplot2.tidyverse.org/dev/reference/scale_manual.html</loc>
   </url>
   <url>
@@ -616,10 +649,7 @@
     <loc>https://ggplot2.tidyverse.org/dev/reference/transform_position.html</loc>
   </url>
   <url>
-    <loc>https://ggplot2.tidyverse.org/dev/reference/translate_qplot_ggplot.html</loc>
-  </url>
-  <url>
-    <loc>https://ggplot2.tidyverse.org/dev/reference/translate_qplot_lattice.html</loc>
+    <loc>https://ggplot2.tidyverse.org/dev/reference/translate_shape_string.html</loc>
   </url>
   <url>
     <loc>https://ggplot2.tidyverse.org/dev/reference/txhousing.html</loc>
